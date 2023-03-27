@@ -5,6 +5,7 @@
     --DarkGrayishBlue: hsl(217, 19%, 24%);
     --DarkBlue: hsl(218, 23%, 16%);
 
+
 }
 
 body {
@@ -12,6 +13,7 @@ body {
     font-size: 28px;
     background-color: var(--DarkBlue);
     color: var(--LightCyan);
+    font-family: 'Manrope', sans-serif;
 }
 
 
